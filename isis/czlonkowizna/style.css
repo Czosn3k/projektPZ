@@ -1,0 +1,116 @@
+body 
+{
+	background-color:black;
+	margin-top:10px;
+	margin-left:auto;
+	margin-right:auto;
+	width:90%;
+	margin-bottom:10px;
+	list-style: none;
+	color: white;
+}
+
+H1 
+{
+	color:white;
+}
+
+
+div 
+{
+    font: verdana 12px #000;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#menu 
+{	
+	text-align:justify;
+	max-width:100%;
+	width:100%;
+	height:22px;
+	background: rgba (0, 128, 240, 0.9);
+	filter: alpha(opacity=50);
+	border:solid 2px;
+	border-top:solid #a9a9a9 1px;
+	border-bottom:solid #a9a9a9 1px;
+	border-color:white;
+	margin-top:10px;
+	font:white;
+}
+	
+#goraglowna 
+{		
+	font: verdana 18px;
+	max-width:100%;
+	width:100%;
+	height:40%;
+	border:solid 2px;
+	background: rgba (0, 128, 240, 0.9);
+	filter: alpha(opacity=50);
+	border-top:solid #a9a9a9 2px;
+	border-bottom:solid #a9a9a9 px;
+	border-color:white;
+	margin-top:10px;
+}
+	
+#logogora 
+{		
+	max-width:100%;
+	width:100%;
+	height:40%;
+	border:solid 2px;
+	background:#483D8B;
+	filter: alpha(opacity=50);
+	border-top:solid #a9a9a9 2px;
+	border-bottom:solid #a9a9a9 px;
+	border-color:white;
+	margin-top:10px;
+}
+
+#glowna 
+{
+	background: rgba (0, 128, 240, 0.9);
+	filter: alpha(opacity=50);
+	font: white;
+	max-width:100%;
+	width:100%;
+	height:100%;
+	border:solid 2px;
+	border-top:solid #a9a9a9 2px;
+	border-bottom:solid #a9a9a9 px;
+	border-color:white;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+
+#lewatresc 
+{			
+	color:white;
+	position:left;
+	width:30%;
+	height:100%;
+	border:solid 2px;
+	border-color:white;
+	background:#00E0FF;
+	filter: alpha(opacity=50);
+	border-top:solid #a9a9a9 2px;
+	border-bottom:solid #a9a9a9 px;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+	
+#prawatresc 
+{			
+	color:white;
+	position:right;
+	width:50%;
+	height:100%;
+	border:solid 2px;
+	background:#00E0FF;
+	filter: alpha(opacity=50);
+	border-top:solid #a9a9a9 2px;
+	border-bottom:solid #a9a9a9 px;
+	margin-top:10px;
+	margin-bottom:10px;
+}

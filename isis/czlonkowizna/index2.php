@@ -1,0 +1,39 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-2" />
+		<meta name="Keywords" content="isis, ISIS, matchmaking, piłka nożna, siatkówka" />
+		<meta name="Author" content="team ISIS" />
+		<link rel="stylesheet" href="style.css" type="text/css" />
+		<title>ISIS</title>
+	</head>
+	<body link="snow" vlink="whitesmoke" alink="seashell">
+
+		<div id="goraglowna">
+			
+			<div id="ivos" style="text-align:center">
+				<b><text style="color:white; font:18px">Inteligent Sport Integration System</text></b>
+			</div id= "zaloguj">
+			<div style="text-align:right;">	
+				<b><a href="index.html" style="text-align:right; color:white;">Witaj, <?php echo $_POST['uname']?></a></b><br>
+				<b><a href="index.php" style="text-align:right; color:white;">Wyloguj</a></b>
+			</div>
+		</div>
+		
+		<div id="menu">
+			<b>				
+				<a href="index.html">Strona glowna</a>
+				-----------
+				<a href="znajdz_mecz.html">Znajdz mecz</a>
+				-----------
+				<a href="utworz_mecz.html">Utworz mecz</a>
+				-----------
+				<a href="ustawienia.html">Ustawienia</a>
+			</b>
+		</div>
+
+		<div id="glowna" style="text-align:left">
+			<H1>WITAJ W ISIS!</H1>
+		</div>
+	</body>
+</html>
